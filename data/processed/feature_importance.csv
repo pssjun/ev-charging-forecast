@@ -1,0 +1,16 @@
+feature,importance
+kwh_rolling_24h,0.3600906
+kwh_lag_1,0.16957928
+month,0.08990792
+day,0.062443048
+weekday,0.047816947
+is_weekend,0.047106795
+kwh_lag_24,0.041825663
+kwh_rolling_168h,0.031942308
+humidity,0.027381713
+rainfall,0.02732329
+kwh_lag_168,0.025068453
+hour,0.020587528
+wind_speed,0.019344173
+temp,0.019124987
+is_holiday,0.010457232

@@ -1,0 +1,1 @@
+{"features_kwh": ["hour", "weekday", "month", "day", "is_weekend", "is_holiday", "kwh_lag_1", "kwh_lag_24", "kwh_lag_168", "kwh_rolling_24h", "kwh_rolling_168h"], "features_weather_kwh": ["hour", "weekday", "month", "day", "is_weekend", "is_holiday", "kwh_lag_1", "kwh_lag_24", "kwh_lag_168", "kwh_rolling_24h", "kwh_rolling_168h", "temp", "rainfall", "wind_speed", "humidity"]}
