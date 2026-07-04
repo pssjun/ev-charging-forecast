@@ -45,21 +45,18 @@
 
 ## 📂 프로젝트 구조
 
-​```text
-ev-charging-forecast/
-├── streamlit_app.py               # 홈 (프로젝트 개요)
-├── pages/
-│   ├── 1_📊_EDA_대시보드.py       # EDA 인터랙티브 시각화
-│   ├── 2_🔮_수요_예측.py          # 예측 결과 조회
-│   ├── 3_📈_모델_성능_비교.py     # 단계별 모델 비교
-│   └── 4_📝_결론과_한계.py        # 결론 및 향후 개선 방향
-├── data/
-│   ├── raw/                       # 원본 API 수집 데이터 (.gitignore)
-│   └── processed/                 # 학습·시각화용 가공 데이터
-├── models/                        # 학습된 모델 (.pkl)
-├── notebooks/                     # 분석 노트북
-└── requirements.txt
-​```
+- `streamlit_app.py` — 홈 (프로젝트 개요)
+- `pages/`
+  - `1_📊_EDA_대시보드.py` — EDA 인터랙티브 시각화
+  - `2_🔮_수요_예측.py` — 예측 결과 조회
+  - `3_📈_모델_성능_비교.py` — 단계별 모델 비교
+  - `4_📝_결론과_한계.py` — 결론 및 향후 개선 방향
+- `data/`
+  - `raw/` — 원본 API 수집 데이터 (`.gitignore`)
+  - `processed/` — 학습·시각화용 가공 데이터
+- `models/` — 학습된 모델 (`.pkl`)
+- `notebooks/` — 분석 노트북
+- `requirements.txt`
 
 ## 🚀 실행 방법
 
