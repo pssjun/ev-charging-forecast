@@ -44,6 +44,8 @@
 ---
 
 ## 📂 프로젝트 구조
+
+​```text
 ev-charging-forecast/
 ├── streamlit_app.py               # 홈 (프로젝트 개요)
 ├── pages/
@@ -57,7 +59,7 @@ ev-charging-forecast/
 ├── models/                        # 학습된 모델 (.pkl)
 ├── notebooks/                     # 분석 노트북
 └── requirements.txt
----
+​```
 
 ## 🚀 실행 방법
 
