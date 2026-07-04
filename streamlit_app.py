@@ -31,7 +31,6 @@ final_compare, hourly_ts = load_data()
 # 헤더
 # =========================
 st.title("⚡ EV 충전소 시간대별 수요 예측")
-st.error("✅ 지금 실행 중인 파일은 최신 streamlit_app.py 입니다.")
 st.markdown("#### 공공데이터 OpenAPI 기반 전기차 충전 수요 분석 및 예측 프로젝트")
 st.divider()
 
